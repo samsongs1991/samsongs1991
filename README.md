@@ -1,7 +1,6 @@
 # ✨Hi, I'm Sam Song 👋🧑‍💻✨
 
 <img src="https://github-readme-stats.vercel.app/api?username=samsongs1991" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samsongs1991" />
 
 ## About Me
 I'm a Full Stack Engineer with a passion for building 🧱, problem solving 🧩, positive impact 🌎, and education 💡.

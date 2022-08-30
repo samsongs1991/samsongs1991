@@ -6,6 +6,7 @@ I currently work at App Academy helping teach aspiring developers coding princip
 
 ### Connect with me!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samsongs1991/)
+
 [<img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" />](https://angel.co/u/samsongs)
 
 ## Interests

@@ -1,5 +1,9 @@
 # ✨Hi, I'm Sam Song 👋🧑‍💻✨
 
+<img src="https://github-readme-stats.vercel.app/api?username=samsongs1991" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samsongs1991" />
+<img src="https://github-profile-trophy.vercel.app/?username=samsongs1991" />
+
 ## About Me
 I'm a Full Stack Engineer with a passion for building 🧱, problem solving 🧩, positive impact 🌎, and education 💡.
 I currently work at App Academy helping teach aspiring developers coding principles and skills including languages like HTML, CSS, JavaScript, React, Redux, Ruby, Ruby On Rails, Node, Express, SQL, PostgreSQL, MongoDB, and more. 
@@ -16,4 +20,3 @@ I currently work at App Academy helping teach aspiring developers coding princip
 - 🎻 Music
 - 🥟 Español
 
-<img src="https://github-readme-stats.vercel.app/api?username=samsongs1991" />

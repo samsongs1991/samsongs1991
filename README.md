@@ -15,3 +15,5 @@ I currently work at App Academy helping teach aspiring developers coding princip
 - 🚴 Cycling
 - 🎻 Music
 - 🥟 Español
+
+<img src="https://github-readme-stats.vercel.app/api?username=samsongs1991" />

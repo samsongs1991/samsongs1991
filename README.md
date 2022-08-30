@@ -10,3 +10,4 @@ I currently work at App Academy helping teach aspiring developers coding princip
 - ♟️ Chess
 - 🚴 Cycling
 - 🎻 Music
+- 🥟 Español

@@ -1,4 +1,4 @@
-# ✨Hi, I'm [Sam Song](https://www.iamsamsong.com) 👋🧑‍💻✨
+# ✨Hi, I'm Sam Song 👋🧑‍💻✨
 
 ## About Me 🚀
 I'm a Full Stack Engineer with a passion for building 🧱, problem solving 🧩, positive impact 🌎, and education 💡.
